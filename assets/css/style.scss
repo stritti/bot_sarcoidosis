@@ -3,3 +3,12 @@
 
 @import "{{ site.theme }}";
 
+a {
+  color: purble;
+}
+
+a:hover, a:focus {
+    color: purble;
+    font-weight: 700;
+}
+
